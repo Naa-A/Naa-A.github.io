@@ -1,2 +1,3 @@
-# Naa-A.github.io
-Front-end Developer portfolio
+## Personal Portfolio
+
+![Portfolio Website](https://i.ibb.co/WgPMpts/image.png)
